@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ernandes Junior</h1>
 <h3 align="center">A passionate Cloud Solutions Architect & Project Manager from Brazil</h3>
-![60513528-programmer-working-on-computer](https://github.com/user-attachments/assets/54e56b14-6d3d-46b0-a526-800a239b6ec8)
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fclipart-vector%2Fcomputer_programmer.html&psig=AOvVaw2ohT9ALE4ClV6Cy6ob93rF&ust=1725297598475000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCO8dugoogDFQAAAAAdAAAAABAZ" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ernandesfranco&label=Profile%20views&color=0e75b6&style=flat" alt="ernandesfranco" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ernandesfranco" alt="ernandesfranco" /></a> </p>
