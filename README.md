@@ -5,24 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ernandesfranco" alt="ernandesfranco" /></a> </p>
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <ul>
-      <li>🔭 I’m currently working with <strong>Terraform</strong></li>
-      <li>🌱 I’m currently learning <strong>Python, Java, NodeJS, AWS, Azure, GCP, and others.</strong></li>
-      <li>👯 I’m looking to collaborate on <strong>Openshift Projects</strong></li>
-      <li>🤝 I’m looking for help with <strong>AWS and Azure projects</strong></li>
-      <li>📝 I regularly write articles on <a href="Cloud computing"><strong>Cloud computing</strong></a></li>
-      <li>💬 Ask me about <strong>AWS, Azure, and DevOps</strong></li>
-      <li>📫 How to reach me <strong>ernandes.francojr@gmail.com</strong></li>
-      <li>📄 Know about my experiences <a href="https://www.linkedin.com/in/ernandesfranco/"><strong>https://www.linkedin.com/in/ernandesfranco/</strong></a></li>
-      <li>⚡ Fun fact <strong>I love Cloud!</strong></li>
-    </ul>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://github.com/user-attachments/assets/de373219-18e3-40fc-bee4-031ef3a32466" alt="Programmer Image" style="max-width: 100%; height: auto;" />
-  </div>
-</div>
+| Text on the Left | Image on the Right |
+|------------------|--------------------|
+| 🔭 I’m currently working with **Terraform** | ![Programmer Image](https://github.com/user-attachments/assets/de373219-18e3-40fc-bee4-031ef3a32466) |
+| 🌱 I’m currently learning **Python, Java, NodeJS, AWS, Azure, GCP, and others.** | |
+| 👯 I’m looking to collaborate on **Openshift Projects** | |
+| 🤝 I’m looking for help with **AWS and Azure projects** | |
+| 📝 I regularly write articles on [Cloud computing](Cloud computing) | |
+| 💬 Ask me about **AWS, Azure, and DevOps** | |
+| 📫 How to reach me **ernandes.francojr@gmail.com** | |
+| 📄 Know about my experiences [https://www.linkedin.com/in/ernandesfranco/](https://www.linkedin.com/in/ernandesfranco/) | |
+| ⚡ Fun fact **I love Cloud!** | |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
