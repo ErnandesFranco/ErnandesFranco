@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ernandes Junior</h1>
 <h3 align="center">A passionate Cloud Solutions Architect & Project Manager from Brazil</h3>
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fclipart-vector%2Fcomputer_programmer.html&psig=AOvVaw2ohT9ALE4ClV6Cy6ob93rF&ust=1725297598475000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCO8dugoogDFQAAAAAdAAAAABAZ" /> </p>
+<p align="right"> 
+  <img src="https://github.com/user-attachments/assets/de373219-18e3-40fc-bee4-031ef3a32466" alt="Programmer Image" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ernandesfranco&label=Profile%20views&color=0e75b6&style=flat" alt="ernandesfranco" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ernandesfranco" alt="ernandesfranco" /></a> </p>
 
-- 🔭 I’m currently working on **Terraform**
+- 🔭 I’m currently working with **Terraform**
 
 - 🌱 I’m currently learning **Python, Java, NodeJS, AWS, Azure, GCP, and others.**
 
