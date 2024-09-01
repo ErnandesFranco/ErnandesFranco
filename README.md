@@ -5,18 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ernandesfranco" alt="ernandesfranco" /></a> </p>
 
-| Text on the Left | Image on the Right |
-|------------------|--------------------|
-| 🔭 I’m currently working with **Terraform** | ![Programmer Image](https://github.com/user-attachments/assets/de373219-18e3-40fc-bee4-031ef3a32466) |
-| 🌱 I’m currently learning **Python, Java, NodeJS, AWS, Azure, GCP, and others.** | |
-| 👯 I’m looking to collaborate on **Openshift Projects** | |
-| 🤝 I’m looking for help with **AWS and Azure projects** | |
-| 📝 I regularly write articles on [Cloud computing](Cloud computing) | |
-| 💬 Ask me about **AWS, Azure, and DevOps** | |
-| 📫 How to reach me **ernandes.francojr@gmail.com** | |
-| 📄 Know about my experiences [https://www.linkedin.com/in/ernandesfranco/](https://www.linkedin.com/in/ernandesfranco/) | |
-| ⚡ Fun fact **I love Cloud!** | |
+- 🔭 I’m currently working with **Terraform**
 
+- 🌱 I’m currently learning **Python, Java, NodeJS, AWS, Azure, GCP, and others.**
+
+- 👯 I’m looking to collaborate on **Openshift Projects**
+
+- 🤝 I’m looking for help with **AWS and Azure projects**
+
+- 📝 I regularly write articles on [Cloud computing](Cloud computing)
+
+- 💬 Ask me about **AWS, Azure, and DevOps**
+
+- 📫 How to reach me **ernandes.francojr@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/ernandesfranco/](https://www.linkedin.com/in/ernandesfranco/)
+
+- ⚡ Fun fact **I love Cloud!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ernandesfranco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ernandesfranco" height="30" width="40" /></a>
