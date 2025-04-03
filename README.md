@@ -11,15 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Openshift Projects**
 
-- 🤝 I’m looking for help with **AWS and Azure projects**
+- 🤝 I’m looking for help with **Cloud projects**
 
-- 📝 I regularly write articles on [Cloud computing](Cloud computing)
+- 📝 I regularly write articles on Cloud computing
 
 - 💬 Ask me about **AWS, Azure, and DevOps**
 
 - 📫 How to reach me **ernandes.francojr@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ernandesfranco/](https://www.linkedin.com/in/ernandesfranco/)
 
 - ⚡ Fun fact **I love Cloud!**
 <h3 align="left">Connect with me:</h3>
