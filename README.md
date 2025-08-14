@@ -63,12 +63,6 @@
 
 ---
 
-### Community & content
-- 🎥 YouTube: <a href="https://www.youtube.com/@TechwithErnandes-l4p">Tech with Ernandes</a>  
-  *(cloud how-tos, IaC demos, cost optimization tips)*
-
----
-
 ### Stats (because everyone asks)
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ernandesfranco&show_icons=true&hide_title=true" />
