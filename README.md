@@ -59,8 +59,6 @@
 - 📊 **observability-starter** — Zabbix/Grafana dashboards + SLO workshop-in-a-box  
   `Zabbix` · `Grafana` · `SLI/SLO`
 
-> Tip: add badges like build status, release, and license in each repo’s README.
-
 ---
 
 ### Stats (because everyone asks)
