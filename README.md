@@ -5,7 +5,6 @@
 
 <p align="center">
   <a href="mailto:ernandes.francojr@gmail.com"><img src="https://img.shields.io/badge/Email-ernandes.francojr%40gmail.com-informational?logo=gmail"></a>
-  <a href="https://www.youtube.com/@TechwithErnandes-l4p"><img src="https://img.shields.io/badge/YouTube-Tech%20with%20Ernandes-red?logo=youtube"></a>
   <img src="https://komarev.com/ghpvc/?username=ernandesfranco&label=Views" />
 </p>
 
