@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ernandes Junior</h1>
-<h3 align="center">A passionate Cloud Solutions Architect & Project Manager from Brazil</h3>
+<h3 align="center">A passionate Cloud Solutions Architect & Project Manager</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ernandesfranco&label=Profile%20views&color=0e75b6&style=flat" alt="ernandesfranco" /> </p>
 
